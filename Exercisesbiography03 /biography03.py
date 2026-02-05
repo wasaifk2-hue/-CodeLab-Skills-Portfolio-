@@ -12,3 +12,4 @@ user_info = {
 }
 
 print(user_info["Name"], "\n" + user_info["Hometown"], "\n" + str(user_info["Age"]))
+
