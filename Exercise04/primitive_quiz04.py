@@ -67,4 +67,5 @@ answer = input("What is the capital of Australia? ")
 if answer.lower() == "canberra":
     print("Correct answer")
 else:
+
     print("Wrong answer")
